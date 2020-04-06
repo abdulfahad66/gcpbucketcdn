@@ -8,7 +8,7 @@ Cloud Shell, Compute Engine, Load balancing
 Click the load balancer link, it will automatically have a health check and point you to the web server
 
 # Proposed system architecture:
-![image](https://github.com/manbobo2002/gcp_lb/blob/master/solution_diagram.png)  
+![image](https://github.com/manbobo2002/gcp_lb_cdn/blob/master/solution_diagram.png)  
 
 
 # How to setup:  
