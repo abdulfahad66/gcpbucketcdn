@@ -1,6 +1,5 @@
 # create health check
 gcloud compute http-health-checks create http-basic-check
-
 # create backend-bucket
 gcloud compute backend-buckets create backend \
     --gcs-bucket-name $bucket \
