@@ -12,4 +12,4 @@ Once we hit the web site, then the content will be cached by Cloud CDN, thus the
 
 
 # How to setup:  
-Please visit 
+Please visit https://medium.com/google-cloud/host-a-static-website-on-gcp-with-loadbalancer-and-cdn-e1ce71d38d07
